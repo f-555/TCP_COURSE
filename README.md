@@ -6,4 +6,4 @@ An enhancement of TCP_BBR
 
 Linux version：4.15.0
 
-Group members: Wu wenhao and Fei Jiaqiang
+Authors: Wu wenhao and Fei Jiaqiang
